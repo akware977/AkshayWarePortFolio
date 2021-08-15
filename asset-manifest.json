@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AkshayWarePortFolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/AkshayWarePortFolio/static/js/main.28c84bf9.chunk.js",
+    "main.js.map": "/AkshayWarePortFolio/static/js/main.28c84bf9.chunk.js.map",
+    "runtime-main.js": "/AkshayWarePortFolio/static/js/runtime-main.43e5f20c.js",
+    "runtime-main.js.map": "/AkshayWarePortFolio/static/js/runtime-main.43e5f20c.js.map",
+    "static/css/2.8ba92f7b.chunk.css": "/AkshayWarePortFolio/static/css/2.8ba92f7b.chunk.css",
+    "static/js/2.5c6027f8.chunk.js": "/AkshayWarePortFolio/static/js/2.5c6027f8.chunk.js",
+    "static/js/2.5c6027f8.chunk.js.map": "/AkshayWarePortFolio/static/js/2.5c6027f8.chunk.js.map",
+    "static/js/3.286372b4.chunk.js": "/AkshayWarePortFolio/static/js/3.286372b4.chunk.js",
+    "static/js/3.286372b4.chunk.js.map": "/AkshayWarePortFolio/static/js/3.286372b4.chunk.js.map",
+    "index.html": "/AkshayWarePortFolio/index.html",
+    "static/css/2.8ba92f7b.chunk.css.map": "/AkshayWarePortFolio/static/css/2.8ba92f7b.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/AkshayWarePortFolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5c6027f8.chunk.js.LICENSE.txt": "/AkshayWarePortFolio/static/js/2.5c6027f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e5f20c.js",
+    "static/css/2.8ba92f7b.chunk.css",
+    "static/js/2.5c6027f8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.28c84bf9.chunk.js"
+  ]
+}
